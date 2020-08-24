@@ -40,11 +40,11 @@ As Kanye West said:
 
 
 ## 代码
-## 内联代码 
+## 内联代码 ``语法：`<add.>` ``
 I think you should use an
 `<addr>` element here instead
 `<cout<<i++<<endl;>`
-## 代码高亮 
+## 代码高亮  ``语法：```语言类型如javascript 换行 代码块 ``` ``
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -52,7 +52,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-## 代码常规显示
+## 代码常规显示 ```` 语法： ```代码块 ``` ````
 ```function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
